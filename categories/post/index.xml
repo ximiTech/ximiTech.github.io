@@ -1,0 +1,29 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>post - 分类 - Francis&#39;s Garden</title>
+        <link>https://ximiTech.github.io/categories/post/</link>
+        <description>post - 分类 - Francis&#39;s Garden</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>whwangrui@hotmail.com (Francis)</managingEditor>
+            <webMaster>whwangrui@hotmail.com (Francis)</webMaster><lastBuildDate>Thu, 17 Dec 2020 18:12:10 &#43;0800</lastBuildDate><atom:link href="https://ximiTech.github.io/categories/post/" rel="self" type="application/rss+xml" /><item>
+    <title>MEmu模拟器运行火纹英雄及自动刷毛教程part2</title>
+    <link>https://ximiTech.github.io/2020-12-17_howto_memu_and_auto2/</link>
+    <pubDate>Thu, 17 Dec 2020 18:12:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ximiTech.github.io/2020-12-17_howto_memu_and_auto2/</guid>
+    <description><![CDATA[如果没有观看自动刷毛教程part1的话，请先看part1吧。 1 动机 上贴提到能够在电脑上运行游戏后，会给我们带来一些方便，比如让游戏在一定限度]]></description>
+</item><item>
+    <title>MEmu模拟器运行火纹英雄及自动刷毛教程part1</title>
+    <link>https://ximiTech.github.io/2020-12-17_howto_memu_and_auto1/</link>
+    <pubDate>Thu, 17 Dec 2020 15:12:10 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ximiTech.github.io/2020-12-17_howto_memu_and_auto1/</guid>
+    <description><![CDATA[1 动机 火纹英雄(Fire Emblem Heroes)是著名游戏火炎之纹章的手机版，我作为一名火纹系列普通爱好者也入了坑。 由于在手机上运行游戏有一种局促感]]></description>
+</item><item>
+    <title>Welcome</title>
+    <link>https://ximiTech.github.io/2020-11-25_welcome/</link>
+    <pubDate>Wed, 25 Nov 2020 23:16:49 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://ximiTech.github.io/2020-11-25_welcome/</guid>
+    <description><![CDATA[Welcome to my site! 欢迎来到我的小站！]]></description>
+</item></channel>
+</rss>
